@@ -3,6 +3,8 @@ Municipal Service Application
 Description
 The Municipal Service Application is a platform designed to help users report issues, access local events and announcements, and submit service requests. It provides a user-friendly interface for navigating through different sections of the application and utilizes advanced data structures to manage data efficiently.
 
+
+
 Features
 Main Menu: Navigation buttons for quick access to different sections such as Report Issues, Local Events, and Service Requests.
 
@@ -21,6 +23,8 @@ Requirements
 
 Visual Studio 2019 or higher
 
+
+
 Installation
 Clone or download the repository.
 
@@ -30,14 +34,19 @@ Build the project using Build > Rebuild Solution.
 
 Run the application using Start Debugging or Ctrl + F5.
 
+
 Usage
 Launch the application and use the Main Menu to navigate between sections.
+sum sections of the applications dont work so if you bump into a button that doesnt work just 
+close the first page by pressing X the next pages will pop up and once your done press X again to move to the next page.
 
 In Report Issues, you can submit issues you encounter.
 
 In Local Events, search for upcoming events and announcements.
 
 In Service Requests, submit and track your requests.
+
+
 
 Data Structures Used
 Sorted Dictionaries: To organize events and announcements efficiently.
@@ -48,5 +57,4 @@ Queues and Stacks: For handling tasks in a specific order (FIFO and LIFO).
 
 Sets: For managing unique items, such as event categories.
 
-Contributing
-Feel free to fork the repository, make changes, and submit pull requests. Contributions are welcome!
+
