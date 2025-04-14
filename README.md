@@ -26,19 +26,19 @@ Visual Studio 2019 or higher
 
 
 Installation
-Clone or download the repository.
+1)Clone or download the repository.
 
-Open the solution file (MunicipalServiceApp.sln) in Visual Studio.
+2)Open the solution file (MunicipalServiceApp.sln) in Visual Studio.
 
-Build the project using Build > Rebuild Solution.
+3)Build the project using Build > Rebuild Solution.
 
-Run the application using Start Debugging or Ctrl + F5.
+4)Run the application using Start Debugging or Ctrl + F5.
 
 
 Usage
 Launch the application and use the Main Menu to navigate between sections.
-sum sections of the applications dont work so if you bump into a button that doesnt work just 
-close the first page by pressing X the next pages will pop up and once your done press X again to move to the next page.
+sum sections of the applications dont work so if you bump into a button that doesnt work on the main page just
+close the first page by pressing 'X' the next pages will pop up and once your done press 'X' again to move to the next page.
 
 In Report Issues, you can submit issues you encounter.
 
