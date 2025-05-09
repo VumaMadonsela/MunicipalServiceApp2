@@ -5,7 +5,7 @@ The Municipal Service Application is a platform designed to help users report is
 
 
 
-Features
+## Features
 Main Menu: Navigation buttons for quick access to different sections such as Report Issues, Local Events, and Service Requests.
 
 Report Issues: Allows users to report any municipal issues they encounter.
@@ -18,14 +18,14 @@ Event Recommendations: Suggests relevant events based on user preferences and se
 
 Advanced Data Structures: Utilizes sorted dictionaries, hash tables, queues, stacks, and sets to optimize data organization and processing.
 
-Requirements
+## Requirements
 .NET Framework 4.7.2 or higher
 
 Visual Studio 2019 or higher
 
 
 
-Installation
+## Installation
 1)Clone or download the repository.
 
 2)Open the solution file (MunicipalServiceApp.sln) in Visual Studio.
@@ -35,10 +35,10 @@ Installation
 4)Run the application using Start Debugging or Ctrl + F5.
 
 
-Usage
+## Usage
 Launch the application and use the Main Menu to navigate between sections.
-sum sections of the applications dont work so if you bump into a button that doesnt work on the main page just
-close the first page by pressing 'X' the next pages will pop up and once your done press 'X' again to move to the next page.
+To navigate the App, use the buttons on the home screen to select the page you want to navigate to, after you have joined a page 
+to navigate back to the main menu you press the Back Button on the screen.
 
 In Report Issues, you can submit issues you encounter.
 
@@ -48,7 +48,7 @@ In Service Requests, submit and track your requests.
 
 
 
-Data Structures Used
+## Data Structures Used
 Sorted Dictionaries: To organize events and announcements efficiently.
 
 Hash Tables: For quick lookups and managing data.
